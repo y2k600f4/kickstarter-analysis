@@ -16,14 +16,14 @@ One challenge during the analysis was properly generating the correct pivot tabl
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Analysis of Theater Outcomes Based on Launch Date](https://github.com.com/y2k600f4/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Analysis of Theater Outcomes Based on Launch Date](https://github.com/y2k600f4/kickstarter-analysis/blob/main/Resources/Theater_outcomes_vs_Launch.png)
 
 One conclusion that can be drawn between the Theater Outcomes by Launch date are that a May launch date leads to the most successful theater outcome (111).  Another conclusion that can be drawn is that theater outcomes have the most failed campaigns when launched in July and October (50) with a June being very close (49). 
 
 ###Analysis of Outcomes Based on Goals
 
 
-![Analysis of Theatre Outcomes Based on Goals](https://github.com.com/y2k600f4/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Analysis of Theatre Outcomes Based on Goals](https://github.com/y2k600f4/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 Analysis of the Theatre outcomes based on goals show that goals greater than $45,000 clearly show the highest failure rate and lowest success rate.
 
